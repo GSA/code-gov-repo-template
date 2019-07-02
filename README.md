@@ -1,5 +1,5 @@
 # code-gov-repo-template
-A basic template to use for all code.gov repositories which includes our standard documents and contact info
+A basic template to use for all code.gov repositories which includes our standard documents and contact info. Using this as a base ensures that all of our community standards are followed.
 
 
 ## Project Name:
