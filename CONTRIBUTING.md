@@ -5,8 +5,8 @@ We're so glad you're thinking about contributing to a U.S. Government open sourc
 ## How to contribute to this project
 
 - We want to ensure a welcoming environment for all of our projects. Our staff follows this [Code of Conduct](CODE_OF_CONDUCT.md) and all contributors should do the same.
-- Report bugs and request features via [Github Issues](/issues).
-   - If you are not sure that the issue is related to the website you can [create the issue in our general repository](https://github.com/gsa/code-gov/issue/new): [code-gov](https://github.com/gsa/code-gov)
+- Report bugs and request features via Github Issues
+   - If you are not sure that the issue is related to the website you can [create the issue in our general repository](https://github.com/gsa/code-gov/issues/new): [code-gov](https://github.com/gsa/code-gov)
 - [Email us](mailto://code@gsa.gov) your ideas on how to improve the code-gov-front-end. We're always open to suggestions.
 - Create a [Github pull request](https://help.github.com/articles/creating-a-pull-request/) with new functionality or fixing a bug.
 - Improve or create documentation.
