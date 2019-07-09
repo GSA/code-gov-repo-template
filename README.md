@@ -26,9 +26,9 @@ Finally, include a section for the license of your project.
 
 ## Questions?
 If you have questions, please feel free to contact us:  
-[Open an issue](https://github.com/GSA/code-gov-front-end/issues)  
-[LinkedIn](https://www.linkedin.com/company/code-gov/)  
-[Twitter](https://twitter.com/@CodeDotGov)  
-[Email](mailto:code@gsa.gov)
+* Open an issue
+* [LinkedIn](https://www.linkedin.com/company/code-gov/)  
+* [Twitter](https://twitter.com/@CodeDotGov)  
+* [Email](mailto:code@gsa.gov)
 
 Or join our `#opensource-public` channel on Slack: https://chat.18f.gov/
