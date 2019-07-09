@@ -30,5 +30,4 @@ If you have questions, please feel free to contact us:
 * [LinkedIn](https://www.linkedin.com/company/code-gov/)  
 * [Twitter](https://twitter.com/@CodeDotGov)  
 * [Email](mailto:code@gsa.gov)
-
-Or join our `#opensource-public` channel on Slack: https://chat.18f.gov/
+* Join our `#opensource-public` channel on Slack: https://chat.18f.gov/
